@@ -5,21 +5,21 @@ import logging
 import requests
 import json
 
-API_URL = 'http://bms.kaseya.com/api/'
+API_URL = 'https://bms.kaseya.com/api/'
 AUTH = {
-       'grant_type=password'
-       'username='
-       'password='
-       'tenant='
-       }
+        "grant_type": "password",
+        "username": "",
+        "password": "",
+        "tenant": ""
+}
 
 def main():
 
-    auth_reponse = requests.post('{0}token'.format(API_URL),
+    auth_response = requests.post('{0}token'.format(API_URL),
         data=AUTH)
 
     bearer = { 'Authorization': auth_response.json() }
-
+    print(bearer)
     #Read locations from file
     with open('forest_dunes.json') as json_data:
         AccountLocations = json.load(json_data)
