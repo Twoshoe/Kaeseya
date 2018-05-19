@@ -1,1099 +1,1372 @@
-MBR-B
 [
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "101B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "101B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "102B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "102B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "103B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "103B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "104B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "104B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "105B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "105B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "106B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "106B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "107B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "107B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "108B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "108B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "109B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "109B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "110B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "110B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "111B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "111B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "112B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "112B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "113B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "113B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "114B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "114B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "115B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "115B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "116B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "116B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "117B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "117B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "118B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "118B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "119B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "119B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "120B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "120B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "121B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "121B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "122B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "122B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "123B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "123B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "124B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "124B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "125B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "125B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "126B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "126B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "127B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "127B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "128B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "128B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "129B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "129B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "130B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "130B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "131B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "131B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "132B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "132B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "133B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "133B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "134B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "134B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "135B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "135B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "136B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "136B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "137B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "137B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "138B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "138B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "139B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "139B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "140B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "140B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "141B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "141B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "142B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "142B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "143B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "143B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "144B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "144B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "145B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "145B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "146B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "146B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "147B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "147B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "148B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "148B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "149B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "149B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "150B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "150B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "151B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "151B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "152B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "152B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "153B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "153B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "154B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "154B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "155B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "155B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "201B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "201B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "202B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "202B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "203B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "203B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "204B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "204B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "205B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "205B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "206B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "206B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "207B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "207B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "208B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "208B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "209B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "209B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "210B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "210B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "211B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "211B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "212B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "212B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "213B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "213B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "214B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "214B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "215B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "215B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "216B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "216B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "217B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "217B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "218B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "218B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "219B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "219B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "220B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "220B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "221B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "221B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "222B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "222B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "223B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "223B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "224B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "224B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "225B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "225B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "226B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "226B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "227B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "227B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "228B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "228B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "229B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "229B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "230B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "230B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "231B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "231B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "232B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "232B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "233B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "233B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "234B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "234B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "235B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "235B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "236B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "236B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "237B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "237B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "238B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "238B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "239B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "239B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "240B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "240B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "241B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "241B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "242B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "242B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "243B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "243B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "244B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "244B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "245B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "245B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "246B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "246B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "247B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "247B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "248B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "248B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "249B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "249B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "250B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "250B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "251B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "251B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "252B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "252B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "253B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "253B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "254B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "254B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "255B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "255B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "301B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "301B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "302B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "302B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "303B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "303B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "304B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "304B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "305B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "305B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "306B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "306B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "307B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "307B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "308B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "308B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "309B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "309B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "310B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "310B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "311B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "311B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "312B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "312B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "313B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "313B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "314B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "314B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "315B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "315B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "316B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "316B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "317B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "317B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "318B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "318B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "319B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "319B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "320B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "320B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "321B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "321B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "322B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "322B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "323B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "323B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "324B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "324B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "325B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "325B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "326B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "326B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "327B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "327B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "328B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "328B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "329B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "329B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "330B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "330B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "331B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "331B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "332B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "332B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "333B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "333B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "334B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "334B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "335B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "335B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "336B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "336B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "337B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "337B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "338B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "338B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "339B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "339B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "340B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "340B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "341B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "341B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "342B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "342B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "343B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "343B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "344B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "344B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "345B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "345B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "346B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "346B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "347B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "347B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "348B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "348B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "349B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "349B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "350B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "350B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "351B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "351B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "352B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "352B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "353B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "353B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "354B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "354B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "355B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "355B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "401B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "401B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "402B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "402B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "403B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "403B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "404B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "404B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "405B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "405B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "406B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "406B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "407B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "407B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "408B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "408B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "409B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "409B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "410B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "410B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "411B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "411B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "412B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "412B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "413B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "413B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "414B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "414B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "415B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "415B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "416B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "416B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "417B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "417B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "418B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "418B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "419B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "419B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "420B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "420B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "421B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "421B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "422B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "422B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "423B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "423B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "424B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "424B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "425B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "425B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "426B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "426B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "427B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "427B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "428B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "428B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "429B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "429B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "430B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "430B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "431B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "431B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "432B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "432B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "433B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "433B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "434B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "434B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "435B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "435B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "436B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "436B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "437B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "437B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "438B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "438B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "439B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "439B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "440B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "440B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "441B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "441B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "442B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "442B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "443B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "443B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "444B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "444B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "445B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "445B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "446B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "446B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "447B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "447B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "448B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "448B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "449B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "449B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "450B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "450B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "451B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "451B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "452B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "452B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "453B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "453B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "454B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "454B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "455B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "455B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "501B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "501B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "502B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "502B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "503B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "503B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "504B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "504B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "505B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "505B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "506B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "506B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "507B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "507B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "508B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "508B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "509B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "509B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "510B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "510B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "511B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "511B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "512B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "512B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "513B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "513B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "514B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "514B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "515B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "515B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "516B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "516B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "517B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "517B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "518B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "518B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "519B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "519B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "520B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "520B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "521B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "521B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "522B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "522B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "523B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "523B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "524B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "524B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "525B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "525B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "526B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "526B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "527B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "527B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "528B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "528B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "529B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "529B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "530B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "530B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "531B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "531B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "532B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "532B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "533B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "533B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "534B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "534B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "535B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "535B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "536B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "536B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "537B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "537B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "538B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "538B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "539B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "539B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "540B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "540B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "541B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "541B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "542B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "542B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "543B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "543B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "544B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "544B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "545B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "545B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "546B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "546B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "547B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "547B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "548B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "548B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "549B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "549B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "550B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "550B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "551B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "551B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "552B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "552B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "553B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "553B",
+		"isMain": false
 	},
 	{
-		"AccountName": "MBR-B",
-		"LocationName": "554B"
+		"AccountName": "Myrtle Beach Resort - Building B",
+		"LocationName": "554B",
+		"isMain": false
 	}
 ]
