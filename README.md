@@ -40,4 +40,4 @@ Call the script (depending on env)
 `$ python3 bms_locations.py jsonfilename.json`
 
 ## `location_to_json.py`
-./location_to_json.py sandpiper.txt > sandpiper.json
+`./location_to_json.py sandpiper.txt > sandpiper.json`
