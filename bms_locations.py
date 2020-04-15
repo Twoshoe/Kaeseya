@@ -49,7 +49,7 @@ def main():
         }
        #Post Locations
         location_response = requests.post(LOCATION_URL, json=account_locations,\
-			 headers=location_header)
+            headers=location_header)
 
         print(location_response)
 
